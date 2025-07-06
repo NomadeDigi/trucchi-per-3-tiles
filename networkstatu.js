@@ -1,6 +1,6 @@
 // networkStatus.js
 // Monitors online/offline status of the user
-// Author: [TuoNome] - For educational/study use only
+// For educational/study use only
 
 class NetworkStatus {
   constructor() {
